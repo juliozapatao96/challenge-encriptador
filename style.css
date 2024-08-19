@@ -126,7 +126,7 @@ main{
 
 }
 
-@media (max-width: 750px){
+@media (max-width: 950px){
 
     main{
         display: inline-block;
@@ -175,7 +175,7 @@ main{
 
 }
 
-@media (max-width: 400px){
+@media (max-width: 750px){
 
     main{
         display: inline-block;
