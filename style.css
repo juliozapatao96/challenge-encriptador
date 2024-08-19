@@ -174,3 +174,63 @@ main{
     }
 
 }
+
+@media (max-width: 400px){
+
+    main{
+        display: inline-block;
+        margin-bottom: 0px;
+        margin-left: 0px;
+    }
+
+    .informacion{
+        margin: 16px;
+    }
+
+    .mensaje{
+        background-image: none;
+        width: 343px;
+        margin-left: 16px;
+        margin-right: 16px;
+        margin-top: 32px;
+        position: relative;
+    }
+
+    .text-area{
+        width: 343px;
+        margin-left: 16px;
+        margin-right: 16px;
+        margin-top: 32px;
+    }
+
+    .botones{
+        display:inline-block;
+        margin-left: 16px;
+    }
+
+    .btn-encriptar{
+        height:71px;
+        width: 343x;
+    }
+    
+    .btn-desencriptar{
+        height:71px;
+        width: 343x;
+        margin-top: 24px;
+        margin-left: 0px;
+    
+    }
+
+    .btn-copiar{
+        height:71px;
+        padding: 0px;
+        margin-top: 5px;
+        margin-left: 24px;
+        position: absolute;
+        width: 315px;
+    }
+    .logo{
+        width: 100px;
+    }
+
+}
