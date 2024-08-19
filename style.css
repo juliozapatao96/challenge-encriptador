@@ -180,7 +180,7 @@ main{
     main{
         display: inline-block;
         margin-bottom: 0px;
-        margin-left: 0px;
+        margin-left: 8px;
     }
 
     .informacion{
@@ -189,7 +189,7 @@ main{
 
     .mensaje{
         background-image: none;
-        width: 343px;
+        width: 80%;
         margin-left: 16px;
         margin-right: 16px;
         margin-top: 32px;
@@ -197,7 +197,7 @@ main{
     }
 
     .text-area{
-        width: 343px;
+        width: 80%;
         margin-left: 16px;
         margin-right: 16px;
         margin-top: 32px;
@@ -210,12 +210,12 @@ main{
 
     .btn-encriptar{
         height:71px;
-        width: 343x;
+        width: 100%;
     }
     
     .btn-desencriptar{
         height:71px;
-        width: 343x;
+        width: 100%;
         margin-top: 24px;
         margin-left: 0px;
     
@@ -227,7 +227,7 @@ main{
         margin-top: 5px;
         margin-left: 24px;
         position: absolute;
-        width: 315px;
+        width: 70%;
     }
     .logo{
         width: 100px;
